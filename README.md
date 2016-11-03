@@ -1,0 +1,1 @@
+Starter nodejs app which supports es6
